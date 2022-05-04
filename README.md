@@ -1,4 +1,6 @@
-This script remap the arrows of the keyboard Husky Blizzard 60% on Ubuntu to use them with Right Shift + W + A + S + D
+This script remap the arrows of the keyboard Husky Blizzard 60% on Ubuntu to use them with Windows Key + I + J + K + L and the double quotes are Windows Key + x
+
+Note that in this configuration the Windows Key will no longer work as a "window switcher"
 
 ## How to Use
 
