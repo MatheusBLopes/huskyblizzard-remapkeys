@@ -11,4 +11,4 @@ To configure the script to start working with system startup do the following
 - Click in Add
 - And set the command browsing the script in your home folder
 
-# For more remaps see the other branches
+### For more remaps see the other branches
