@@ -8,3 +8,5 @@ To configure the script to start working with system startup do the following
 - Open the Startup Application Preferences
 - Click in Add
 - And set the command browsing the script in your home folder
+
+# For more remaps see the other branches
