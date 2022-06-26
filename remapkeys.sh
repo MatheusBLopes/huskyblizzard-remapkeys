@@ -1,1 +1,5 @@
-sleep 60 && xmodmap -e "keycode 62 = Mode_switch" && xmodmap -e "keysym a = a A Left" && xmodmap -e "keysym s = s S Down" && xmodmap -e "keysym w = w W Up" && xmodmap -e "keysym d = d D Right"
+sleep 60 && xmodmap -e "keycode 62 = Mode_switch" 
+&& xmodmap -e "keysym ç = ç Ç Left" 
+&& xmodmap -e "keysym ; = ; : Down" 
+&& xmodmap -e "keysym ´ = ´ ` Up" 
+&& xmodmap -e "keysym ~ = ~ ^ Right"
